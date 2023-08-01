@@ -12,6 +12,10 @@
 -> Risky Prediction: 3.08
 -> Accuracy: 85%
 
+# STARS ⭐
+⭐ 25 STARS: Improved Accuracy 
+⭐ 50 STARS: Improved Safe & Risky Predictions 
+
 # Note:
 - This project is for educational and demonstration purposes and may not provide accurate or reliable predictions for real-world use.
 -  Please be aware that this predictior is not 100% accurate. I am not responsible for your losses.
