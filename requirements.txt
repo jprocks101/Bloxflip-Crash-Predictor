@@ -1,0 +1,4 @@
+cloudscraper
+scikit-learn
+numpy
+colorama
